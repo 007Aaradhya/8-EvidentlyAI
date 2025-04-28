@@ -1,5 +1,6 @@
 streamlit==1.19.0
-evidently==0.4.0
-pandas==2.1.4
-numpy==1.26.4
-pyyaml==6.0.1     # Explicitly add a modern version
+evidently==0.2.8
+pandas==1.5.3
+numpy==1.24.2
+altair==4.2.2  # This specific version works with Streamlit 1.19.0
+pyyaml==6.0.1
